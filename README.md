@@ -1,7 +1,8 @@
 # [![Typing SVG](https://readme-typing-svg.demolab.com?font=Caveat&weight=700&size=36&duration=2500&pause=1500&color=27A443AC&background=47D0FF00&width=435&lines=hello+there+%2C+i'm+Arman+.;frontend+Designer+%2F+Developer+.)](https://git.io/typing-svg)
 * study at computer engineering !
 * interested in the design and structure of web pages !
-> **Note:** I am not a **professional web designer**, I am learning.
+* <br>
+  **Note:** I am not a **professional web designer**, I am learning.
 # [![Typing SVG](https://readme-typing-svg.demolab.com?font=Caveat&weight=700&size=36&pause=1000&color=27A443AC&repeat=false&width=435&lines=connect+with+me+%3A)](https://git.io/typing-svg)
 <a href="mailto: arman.t.tehrani@gmail.com">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
 <a href="https://www.linkedin.com/in/arman-tabibzade-tehrani-00b414220">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
@@ -17,7 +18,6 @@
 > **web design :** <br>
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -27,3 +27,9 @@
 ![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
 ![Microsoft PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Caveat&weight=700&size=36&pause=1000&color=27A443AC&repeat=false&width=435&lines=IDE+and+code+editor+%3A)](https://git.io/typing-svg)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Atom](https://img.shields.io/badge/Atom-%2366595C.svg?style=for-the-badge&logo=atom&logoColor=white)
+![WebStorm](https://img.shields.io/badge/webstorm-143?style=for-the-badge&logo=webstorm&logoColor=white&color=black)
+# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Caveat&weight=700&size=36&pause=1000&color=27A443AC&repeat=false&width=435&lines=GitHub+status+%3A)](https://git.io/typing-svg)
+<img src="https://github-readme-stats.vercel.app/api?username=itsmearman&theme=blue-green"/>
