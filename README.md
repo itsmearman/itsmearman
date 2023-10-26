@@ -2,7 +2,7 @@
 * study at computer engineering at islamic azad university karaj branch from September 2021 !
 * interested in the design and structure of web pages so i can make web page now !
 * WordPress development and admin for 2 year so i know some feature more than Some developers.
-* I good at teamwork and have done some projects !<br><br>
+* I'm just learning react.js for first javascript library !<br><br>
   <b>Note:</b> I am not a **professional web designer**, but I'm learning.
 # [![Typing SVG](https://readme-typing-svg.demolab.com?font=Caveat&weight=700&size=36&pause=1000&color=27A443AC&repeat=false&width=435&lines=connect+with+me+%3A)](https://git.io/typing-svg)
 <a href="mailto: arman.t.tehrani@gmail.com">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
