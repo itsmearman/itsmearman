@@ -1,9 +1,9 @@
-# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Caveat&weight=700&size=36&duration=2500&pause=1500&color=27A443AC&background=47D0FF00&width=435&lines=hello+there+%2C+i'm+Arman+.;frontend+Designer+%2F+Developer+.)](https://git.io/typing-svg)
+# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Caveat&weight=700&size=36&duration=2500&pause=1500&color=27A443AC&background=47D0FF00&width=435&lines=hello+there+%2C+i'm+Arman+.;frontend+Designer+%2F+Developer+.)]
 * study at computer engineering at islamic azad university karaj branch from September 2021 !
 * interested in the design and structure of web pages so i can make web page now !
 * WordPress development and admin for 2 year so i know some feature more than Some developers.
 * I'm just learning react.js for first javascript library !<br><br>
-# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Caveat&weight=700&size=36&pause=1000&color=27A443AC&repeat=false&width=435&lines=connect+with+me+%3A)](https://git.io/typing-svg)
+# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Caveat&weight=700&size=36&pause=1000&color=27A443AC&repeat=false&width=435&lines=connect+with+me+%3A)
 <a href="mailto: arman.t.tehrani@gmail.com">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
 <a href="https://www.linkedin.com/in/arman-tabibzade-tehrani-00b414220">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 # [![Typing SVG](https://readme-typing-svg.demolab.com?font=Caveat&weight=700&size=36&pause=1000&color=27A443AC&repeat=false&width=435&lines=Language+and+softwareknowledge+%3A)](https://git.io/typing-svg)
@@ -34,7 +34,7 @@
 ![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
 ![Microsoft PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Caveat&weight=700&size=36&pause=1000&color=27A443AC&repeat=false&width=435&lines=IDE+and+code+editor+%3A)](https://git.io/typing-svg)
+# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Caveat&weight=700&size=36&pause=1000&color=27A443AC&repeat=false&width=435&lines=IDE+and+code+editor+%3A)]
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)
 
