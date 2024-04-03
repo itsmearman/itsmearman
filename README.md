@@ -34,10 +34,10 @@
 ![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
 ![Microsoft PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Caveat&weight=700&size=36&pause=1000&color=27A443AC&repeat=false&width=435&lines=IDE+and+code+editor+%3A)]
+# ![Typing SVG](https://readme-typing-svg.demolab.com?font=Caveat&weight=700&size=36&pause=1000&color=27A443AC&repeat=false&width=435&lines=IDE+and+code+editor+%3A)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)
 
-# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Caveat&weight=700&size=36&pause=1000&color=27A443AC&repeat=false&width=435&lines=version+control+%3A)](https://git.io/typing-svg)
+# ![Typing SVG](https://readme-typing-svg.demolab.com?font=Caveat&weight=700&size=36&pause=1000&color=27A443AC&repeat=false&width=435&lines=version+control+%3A)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
