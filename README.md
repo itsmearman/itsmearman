@@ -22,8 +22,10 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)
 
-> **Library :** <br>
+> **FrameWork :** <br>
 ![Next.js](https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white)
+
+> **Library :** <br>
 ![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)
 
 # ![Typing SVG](https://readme-typing-svg.demolab.com?font=Caveat&weight=700&size=36&pause=1000&color=27A443AC&repeat=false&width=435&lines=IDE+and+code+editor+%3A)
