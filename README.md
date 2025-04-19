@@ -7,21 +7,17 @@
 <a href="mailto: arman.t.tehrani@gmail.com">![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)</a>
 <a href="https://www.linkedin.com/in/arman-tabibzade-tehrani-00b414220">![LinkedIn](https://img.shields.io/badge/Linkedin-%230077B5.svg?logo=linkedin&logoColor=white)</a>
 # ![Typing SVG](https://readme-typing-svg.demolab.com?font=Caveat&weight=700&size=36&pause=1000&color=27A443AC&repeat=false&width=435&lines=Language+and+softwareknowledge+%3A)
-> **Adobe:** <br>
-![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?logo=Adobe%20Photoshop&logoColor=black)
-![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?logo=Adobe%20Premiere%20Pro&logoColor=white)
 > 
 > **web design :** <br>
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff)
-![Sass](https://img.shields.io/badge/Sass-C69?logo=sass&logoColor=fff)
-![TailwindCSS](https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff)
 ![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff)
-![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff)
+![TailwindCSS](https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-C69?logo=sass&logoColor=fff)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff)
 
 > **program language :** <br>
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)
 
 > **FrameWork :** <br>
 ![Next.js](https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white)
