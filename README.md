@@ -51,11 +51,11 @@
 
 # ![Typing SVG](https://readme-typing-svg.demolab.com?font=Caveat&weight=700&size=36&pause=1000&color=27A443AC&repeat=false&width=435&lines=GitHub+Stats+%3A)
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=itsmearman&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=itsmearman&layout=compact&theme=radical)
 
 # ![Typing SVG](https://readme-typing-svg.demolab.com?font=Caveat&weight=700&size=36&pause=1000&color=27A443AC&repeat=false&width=435&lines=Recent+Projects+%3A)
 
-[![Project 1](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=repo1)](https://github.com/yourusername/repo1)
-[![Project 2](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=repo2)](https://github.com/yourusername/repo2)
+[![Project 1](https://github-readme-stats.vercel.app/api/pin/?username=itsmearman&repo=armani-exchange)](https://github.com/yourusername/repo1)
+[![Project 2](https://github-readme-stats.vercel.app/api/pin/?username=itsmearman&repo=tictactoe)](https://github.com/yourusername/repo2)
