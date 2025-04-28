@@ -9,10 +9,9 @@
 <br>
 
 # ![Typing SVG](https://readme-typing-svg.demolab.com?font=Caveat&weight=700&size=36&pause=1000&color=27A443AC&repeat=false&width=435&lines=connect+with+me+%3A)
-<a href="mailto:arman.t.tehrani@gmail.com">![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)</a>
-<a href="https://www.linkedin.com/in/arman-tabibzade-tehrani-00b414220">![LinkedIn](https://img.shields.io/badge/Linkedin-%230077B5.svg?logo=linkedin&logoColor=white)</a>
-<a href="https://github.com/yourusername">![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)</a>
-<a href="https://twitter.com/yourhandle">![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white)</a>
+<a href="mailto:arman.tabibzade.tehrani@gmail.com">![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)</a>
+<a href="https://www.linkedin.com/in/arman-tabibzade-tehrani">![LinkedIn](https://img.shields.io/badge/Linkedin-%230077B5.svg?logo=linkedin&logoColor=white)</a>
+<a href="https://github.com/itsmearman">![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)</a>
 
 # ![Typing SVG](https://readme-typing-svg.demolab.com?font=Caveat&weight=700&size=36&pause=1000&color=27A443AC&repeat=false&width=435&lines=Language+and+software+knowledge+%3A)
 
