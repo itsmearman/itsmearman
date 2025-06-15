@@ -56,5 +56,5 @@
 
 # ![Typing SVG](https://readme-typing-svg.demolab.com?font=Caveat&weight=700&size=36&pause=1000&color=27A443AC&repeat=false&width=435&lines=Recent+Projects+%3A)
 
-[![Project 1](https://github-readme-stats.vercel.app/api/pin/?username=itsmearman&repo=armani-exchange)](https://github.com/yourusername/repo1)
-[![Project 2](https://github-readme-stats.vercel.app/api/pin/?username=itsmearman&repo=tictactoe)](https://github.com/yourusername/repo2)
+[![Project 1](https://github-readme-stats.vercel.app/api/pin/?username=itsmearman&repo=armani-exchange)](https://github.com/itsmearman/armani-exchange)
+[![Project 2](https://github-readme-stats.vercel.app/api/pin/?username=itsmearman&repo=tictactoe)](https://github.com/itsmearman/tictactoe)
