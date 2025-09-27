@@ -16,7 +16,6 @@
 # ![Typing SVG](https://readme-typing-svg.demolab.com?font=Caveat&weight=700&size=36&pause=1000&color=27A443AC&repeat=false&width=435&lines=Language+and+software+knowledge+%3A)
 
 > **Web Design & Development:** <br>
-![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff)
 ![HTML5](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white)
@@ -31,6 +30,7 @@
 > **Frameworks:** <br>
 ![Next.js](https://img.shields.io/badge/Next.js-000?logo=next.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)
+![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff)
 
 > **Tools & Utilities:** <br>
 ![NPM](https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=fff)
